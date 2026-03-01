@@ -1,4 +1,6 @@
 streamlit
-cv2
+opencv-python
+
 pandas
+
 pymiere
