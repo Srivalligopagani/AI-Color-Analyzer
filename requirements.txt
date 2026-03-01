@@ -1,7 +1,6 @@
 streamlit
 opencv-python-headless
-
-pandas
-
-pymiere
+numpy
+scikit-learn
+pillow
 
